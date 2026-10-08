@@ -3,8 +3,5 @@ project(lab1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab1 problem1.cpp
-        Problem3.cpp
-        Problem2.cpp
-        Problem4.cpp
+add_executable(lab1 Problem2.cpp
 )
